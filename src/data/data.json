@@ -1,0 +1,26 @@
+[{
+        "title": "满300减30",
+        "img": "img/img1.gif",
+        "price": 489
+    },
+    {
+        "title": "满300减50",
+        "img": "img/img1.gif",
+        "price": 599
+    },
+    {
+        "title": "3件8折",
+        "img": "img/img1.gif",
+        "price": 99
+    },
+    {
+        "title": "满999减100",
+        "img": "img/img1.gif",
+        "price": 1299
+    },
+    {
+        "title": "满五免一",
+        "img": "img/img1.gif",
+        "price": 39
+    }
+]
